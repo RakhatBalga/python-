@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User generated application data
+expenses.csv
+
+# macOS specifics
+.DS_Store
+
+# Virtual environments
+.env
+venv/
+env/
+ENV/
